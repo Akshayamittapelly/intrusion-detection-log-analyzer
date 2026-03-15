@@ -1,3 +1,18 @@
-# intrusion-detection-log-analyzer
-SOC-based Intrusion Detection Log Analyzer built with Python to detect failed login attempts and identify suspicious IP addresses from authentication logs.
-Developed a Python-based log analysis tool that detects multiple failed login attempts and flags suspicious IP addresses to simulate SOC monitoring.
+# Intrusion Detection Log Analyzer
+
+## Description
+A Python-based SOC project that analyzes authentication logs to detect suspicious login attempts and brute-force attacks.
+
+## Features
+- Detects multiple failed login attempts
+- Identifies suspicious IP addresses
+- Generates security analysis report
+
+## Technologies
+Python, Log Analysis
+
+## How to Run
+python app.py
+
+## Use Case
+Simulates Security Operations Center monitoring for detecting brute-force attacks.
